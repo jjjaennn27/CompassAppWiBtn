@@ -10,9 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CompassAppWiBtn">
         <activity android:name=".CompassActivity">
-            android:label="compass Activity"
-        </activity>
-        <activity android:name=".MainActivity">
+            android:label="Compass Activity" </activity>
+        <activity android:name="com.example.compassappwibtn.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
